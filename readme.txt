@@ -1,0 +1,1 @@
+These scripts are made to work on Debian 13
